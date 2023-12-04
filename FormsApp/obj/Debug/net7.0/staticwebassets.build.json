@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "IFBfc6F05AtFVgNx3ahfoDQ9JBC+qJIVT4BkWnFt0B0=",
+  "Hash": "3NmwWTbHZAEvhYUuVZ8eOWsSaufH0YM1nAS7RO6L+bE=",
   "Source": "FormsApp",
   "BasePath": "_content/FormsApp",
   "Mode": "Default",
@@ -170,6 +170,23 @@
       "OriginalItemSpec": "wwwroot\\img\\5.jpg"
     },
     {
+      "Identity": "C:\\Users\\Mert Can SUCU\\OneDrive - Ataturk University\\Masaüstü\\FormsApp\\FormsApp\\wwwroot\\img\\556e773b-f429-4dc7-a6a5-6434b964b42e.jpg",
+      "SourceId": "FormsApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mert Can SUCU\\OneDrive - Ataturk University\\Masaüstü\\FormsApp\\FormsApp\\wwwroot\\",
+      "BasePath": "_content/FormsApp",
+      "RelativePath": "img/556e773b-f429-4dc7-a6a5-6434b964b42e.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\556e773b-f429-4dc7-a6a5-6434b964b42e.jpg"
+    },
+    {
       "Identity": "C:\\Users\\Mert Can SUCU\\OneDrive - Ataturk University\\Masaüstü\\FormsApp\\FormsApp\\wwwroot\\img\\6.jpg",
       "SourceId": "FormsApp",
       "SourceType": "Discovered",
@@ -185,6 +202,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\6.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Mert Can SUCU\\OneDrive - Ataturk University\\Masaüstü\\FormsApp\\FormsApp\\wwwroot\\img\\f7899c2d-162a-4691-af7e-aa1eac26bd4b.jpg",
+      "SourceId": "FormsApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mert Can SUCU\\OneDrive - Ataturk University\\Masaüstü\\FormsApp\\FormsApp\\wwwroot\\",
+      "BasePath": "_content/FormsApp",
+      "RelativePath": "img/f7899c2d-162a-4691-af7e-aa1eac26bd4b.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\f7899c2d-162a-4691-af7e-aa1eac26bd4b.jpg"
     },
     {
       "Identity": "C:\\Users\\Mert Can SUCU\\OneDrive - Ataturk University\\Masaüstü\\FormsApp\\FormsApp\\wwwroot\\js\\site.js",

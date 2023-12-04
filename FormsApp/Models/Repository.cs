@@ -27,6 +27,11 @@ namespace FormsApp.Models
                 return _products;
             }
         }
+
+        //Create.cshtlm de oluşturduğum yeni kayıt eklemek için ekledim
+        public static void CreateProduct(Product entity){
+            _products.Add(entity);
+        }
         public static List<Category> Categories{
             get{
                 return _categories;
