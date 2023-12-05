@@ -8,6 +8,7 @@
         enctype="multipart/form-data" ==> resim dosyasının uzantısı seçildiği bilgisi gitsin diye
     -->
     <div asp-validation-summary="All"></div><!--Tüm hatalar görünsün diye-->
+    <input type="hidden" asp-for="ProductId">
     <div class="mb-3">
         <label asp-for="Name" class="form-label"></label>
         <input asp-for="Name" class="form-control">
@@ -23,7 +24,7 @@
     </div>
     <div>
         <img src="~/img/@Model.Image" alt="" style="width: 100px;"><!--Resim güncellenmesi için gösterdim-->
-        <input type="hidden" asp-for="@Model.Image"><!--Eğer yeni resim seçmediysek te eski hali kalsın diye-->
+        <input type="hidden" asp-for="@Model.Image"><!--Eğer yeni resim seçmediysek te eski hali kalsın diye,hidden demek kullanıcı bunu görmesini engelliyorum bu bilgiyi gizli alıyorum-->
     </div>
     <div class="mb-3">
         <label asp-for="CategoryId" class="form-label"></label>
